@@ -1,7 +1,7 @@
 {
   "name": "@brokenbyte-software/whois",
   "version": "0.0.1",
-  "description": "",
+  "description": "A WHOIS client for NodeJS with various output formats",
   "main": "build/src/index.js",
   "types": "build/src/index.d.ts",
   "files": [
@@ -30,6 +30,7 @@
     "type": "git",
     "url": "https://github.com/BrokenByte-Software/whois"
   },
+  "homepage": "https://github.com/BrokenByte-Software/whois#readme",
   "ava": {
     "typescript": {
       "rewritePaths": {

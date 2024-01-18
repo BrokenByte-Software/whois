@@ -41,6 +41,7 @@
       "compile": false
     }
   },
+  "packageManager": "npm@10.2.3",
   "scripts": {
     "test": "ava",
     "lint": "gts lint",

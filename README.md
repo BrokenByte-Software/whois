@@ -34,7 +34,7 @@ run();
 ```
 * JavaScript
 ```js
-const {whois, WellKnownKeys, ResultFormat} require('@brokenbyte-software/whois');
+const {whois, WellKnownKeys, ResultFormat} = require('@brokenbyte-software/whois');
 
 async function run () {
     const result = await whois('google.com', {format: ResultFormat.Object});
